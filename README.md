@@ -8,7 +8,7 @@ A curated index of **192 free, privacy-first browser tools** — every tool runs
 
 - **Privacy by architecture** — PDF splitting, image editing, and AI inference happen in your browser via WebAssembly. Nothing is uploaded to a server.
 - **No signup walls** — every tool works instantly, no account required.
-- **Free forever** — no paywalls, no watermarks, no daily limits.
+- **Free to use** — no signup, no watermarks. The free tier allows 5 downloads a day; the optional Pro plan ($7/mo, $59/yr) lifts the cap.
 
 ## Tool Index
 
@@ -72,14 +72,14 @@ A curated index of **192 free, privacy-first browser tools** — every tool runs
 - **[Markdown Search](https://freetoolhub.org/md-search/)** — Full-text search in Markdown notes with regex, tag filtering, and match highlighting. 100% local.
 - **[Markdown Metadata Editor](https://freetoolhub.org/md-meta-editor/)** — Edit YAML front matter in .md files — add, modify, delete fields with live preview. 100% local.
 - **[Base64 Encoder / Decoder](https://freetoolhub.org/base64/)** — Encode text to Base64 or decode Base64 to text. UTF-8 safe, URL-safe variant
-- **[UUID v4 Generator](https://freetoolhub.org/uuid-gen/)** — Generate RFC 4122 random UUIDs. Cryptographically secure, unlimited
+- **[UUID v4 Generator](https://freetoolhub.org/uuid-gen/)** — Generate RFC 4122 random UUIDs. Cryptographically secure, batch up to 100
 - **[Password Generator](https://freetoolhub.org/password-gen/)** — Cryptographically secure passwords with strength meter (entropy bits)
 - **[URL Encoder / Decoder](https://freetoolhub.org/url-encode/)** — Percent-encode URLs (RFC 3986) — encodeURIComponent and encodeURI modes
 - **[Hash Generator (MD5/SHA)](https://freetoolhub.org/hash-gen/)** — Compute MD5, SHA-1, SHA-256, SHA-512 hashes. 100% in-browser
 - **[Color Picker & WCAG Checker](https://freetoolhub.org/color-picker/)** — Pick colors with HEX/RGB/HSL conversion. WCAG contrast ratio checker
 - **[Unix Timestamp Converter](https://freetoolhub.org/timestamp/)** — Convert Unix timestamps to readable dates (and vice versa). Seconds & ms
 - **[Regex Tester & Highlighter](https://freetoolhub.org/regex-tester/)** — Test regular expressions with live highlighting, capture groups, flags
-- **[QR Code Generator](https://freetoolhub.org/qr-gen/)** — Generate unlimited free QR codes for URLs, text, vCard, WiFi
+- **[QR Code Generator](https://freetoolhub.org/qr-gen/)** — Generate QR codes for URLs, text, vCard, and WiFi — free, no signup
 - **[Character Counter & Text Analyzer](https://freetoolhub.org/char-counter/)** — Count characters, words, sentences, paragraphs. Reading & speaking time
 - **[Markdown Preview & Converter](https://freetoolhub.org/markdown/)** — Live preview Markdown to HTML. GitHub Flavored Markdown (GFM) supported
 - **[CSV ↔ JSON Converter](https://freetoolhub.org/csv-json/)** — Convert between CSV and JSON. Auto-detect delimiter (comma, tab, semicolon)
@@ -182,7 +182,7 @@ A curated index of **192 free, privacy-first browser tools** — every tool runs
 - **[AI Paraphraser & Rewriter](https://freetoolhub.org/ai-paraphraser/)** — Rewrite any text in 5 styles — formal, casual, concise, creative, academic
 - **[AI Background Remover](https://freetoolhub.org/ai-bg-remover/)** — Remove image backgrounds instantly — 100% in-browser, no upload
 - **[AI Image Upscaler](https://freetoolhub.org/ai-image-upscaler/)** — Upscale images 2x-4x with AI — sharpen, enhance, no blur
-- **[Local AI Assistant](https://freetoolhub.org/local-ai-assistant/)** — Offline AI chatbot in your browser — download once, chat forever
+- **[Local AI Assistant](https://freetoolhub.org/local-ai-assistant/)** — Offline AI chatbot in your browser — download once, chat offline
 - **[AI Logo Generator](https://freetoolhub.org/ai-logo-gen/)** — Generate professional logos instantly — 5 styles, 8 colors, 10 icons
 - **[AI Handwriting Generator](https://freetoolhub.org/ai-handwriting/)** — Turn typed text into realistic handwriting — 25 fonts, 4 paper types
 - **[Grammar Checker (Light)](https://freetoolhub.org/grammar-checker/)** — Check English grammar and spelling — 200+ rules, no API, no signup, 100% browser-based
